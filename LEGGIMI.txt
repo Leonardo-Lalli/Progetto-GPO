@@ -1,0 +1,25 @@
+RELAZIONE CLOUDGEST — PAGINA WEB
+================================
+
+Questa versione contiene esclusivamente la relazione del progetto CloudGest:
+- Introduzione
+- 1. Domanda e offerta ed elasticità
+- 2. Costi, ricavi e profitto
+- 3. Outsourcing
+- 4. Investimento e ROI a 12 mesi
+- 5. Conclusioni
+- Dichiarazione sull’utilizzo dell’intelligenza artificiale
+
+FILE
+- index.html : pagina della relazione
+- styles.css : stile esterno e responsive (nessuno stile inline)
+- assets/ : sei grafici della relazione
+
+INSTALLAZIONE
+Metti index.html, styles.css e la cartella assets/ nella stessa cartella del sito.
+Per integrare il contenuto in una pagina esistente copia il contenitore
+<div class="cg-report"> ... </div> e carica styles.css nell'head.
+Gli stili sono confinati nel selettore .cg-report per ridurre conflitti col resto del sito.
+Non occorrono JavaScript, dipendenze o collegamento a Internet.
+
+Fonte dei testi: Relazione_CloudGest_GPO_rivista.docx fornita nella conversazione.
